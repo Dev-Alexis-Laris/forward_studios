@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/forward_studios/static/css/main.b05a259f.css",
+    "main.js": "/forward_studios/static/js/main.dc96c73e.js",
+    "static/js/787.94acfa22.chunk.js": "/forward_studios/static/js/787.94acfa22.chunk.js",
+    "static/media/video-1.mp4": "/forward_studios/static/media/video-1.227529b1317446d0ff39.mp4",
+    "static/media/video-2.mp4": "/forward_studios/static/media/video-2.1d85f26555ee96be1987.mp4",
+    "static/media/video-4.mp4": "/forward_studios/static/media/video-4.82ac8198787df5c96fb0.mp4",
+    "static/media/video-6.mp4": "/forward_studios/static/media/video-6.4626c9a4c735bd34d32a.mp4",
+    "static/media/video-5.mp4": "/forward_studios/static/media/video-5.6656238fba21e59fdcb1.mp4",
+    "static/media/video-3.mp4": "/forward_studios/static/media/video-3.c339798ef262fb2fa3d4.mp4",
+    "static/media/video-aboutus.mp4": "/forward_studios/static/media/video-aboutus.cd2924a0c0bccad7414c.mp4",
+    "static/media/video-main.mp4": "/forward_studios/static/media/video-main.b195439a616f09916385.mp4",
+    "static/media/miniatura-1.png": "/forward_studios/static/media/miniatura-1.ad0574fb828d8ead7235.png",
+    "static/media/miniatura-6.png": "/forward_studios/static/media/miniatura-6.4636638ace0f855d7d1e.png",
+    "static/media/miniatura-5.png": "/forward_studios/static/media/miniatura-5.0f7aaf4d6a1ad1732a37.png",
+    "static/media/miniatura-3.png": "/forward_studios/static/media/miniatura-3.f44791ba6cacc51cc35e.png",
+    "static/media/miniatura-4.png": "/forward_studios/static/media/miniatura-4.8d1372e41bc218805bde.png",
+    "static/media/miniatura-2.png": "/forward_studios/static/media/miniatura-2.63f4a90c2cb122c92265.png",
+    "static/media/img_2.png": "/forward_studios/static/media/img_2.786b835c1364a37a3c6c.png",
+    "static/media/img_7.png": "/forward_studios/static/media/img_7.3039e997ed6e9b8160ba.png",
+    "static/media/img_4.png": "/forward_studios/static/media/img_4.3aa8f41558cae53a8406.png",
+    "static/media/img_6.png": "/forward_studios/static/media/img_6.b96116e715c140ff71fd.png",
+    "static/media/img_8.jpg": "/forward_studios/static/media/img_8.18857f2b44f9fcff510c.jpg",
+    "static/media/img_1.jpg": "/forward_studios/static/media/img_1.374f2853588c275f88c5.jpg",
+    "static/media/img_3.jpg": "/forward_studios/static/media/img_3.fa8be34f9fb6a932cae6.jpg",
+    "static/media/img_5.png": "/forward_studios/static/media/img_5.9d1e378ffaaeddb2f804.png",
+    "index.html": "/forward_studios/index.html",
+    "main.b05a259f.css.map": "/forward_studios/static/css/main.b05a259f.css.map",
+    "main.dc96c73e.js.map": "/forward_studios/static/js/main.dc96c73e.js.map",
+    "787.94acfa22.chunk.js.map": "/forward_studios/static/js/787.94acfa22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05a259f.css",
+    "static/js/main.dc96c73e.js"
+  ]
+}
