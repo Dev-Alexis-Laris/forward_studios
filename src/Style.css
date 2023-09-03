@@ -95,6 +95,7 @@ body {
   transition: background-color 0.3s, color 0.3s;
   border-radius: 50px;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .ver-mas-btn:hover {
