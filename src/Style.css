@@ -49,9 +49,8 @@ body {
 .nav-list a {
   font-size: 1.2rem;
   color: #EAEAEA;
-
   text-decoration: none;
-  font-weight: 300;
+  font-weight: bold;
   transition: color 0.3s;
 }
 
